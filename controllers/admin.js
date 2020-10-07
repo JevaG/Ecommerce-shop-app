@@ -5,7 +5,7 @@ const { validationResult } = require('express-validator');
 
 const Product = require('../models/product');
 
-const ITEMS_PER_PAGE = 4;
+const ITEMS_PER_PAGE = 2;
 
 exports.getAddProduct = (req, res, next) => {
   res.render('admin/edit-product', {
