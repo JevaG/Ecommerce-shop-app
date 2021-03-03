@@ -1,10 +1,9 @@
 # Ecommerce-shop-app
-A e-commerce application built with Express JS and MongoDb
+An e-commerce application built with Express JS and MongoDb
 
 **Project Features**
 
- - Admin users can list , add & update new products
- - Admins can add new products and upload using the new category
+ - Admin users can list, add & update new products
  - Visitors can sign up/in for a user account with e-mail & password
  - Visitors can reset a password
  - Visitors can order and purchase a product.
